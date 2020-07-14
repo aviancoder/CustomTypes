@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "iGCkKq+dt8Uou/FT7XwAbal2cAPGjE1/4TvI4LDIqZeFa9INh3yAiaaEgPb+4M+44G1wopHFeFOUEKzAgw9nwA==",
+  "success": true,
+  "projectFilePath": "D:\\GitRepository\\CustomTypes\\InforCustomTypes\\InforCustomTypes\\InforCustomTypes.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\arnel.aves\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\arnel.aves\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}

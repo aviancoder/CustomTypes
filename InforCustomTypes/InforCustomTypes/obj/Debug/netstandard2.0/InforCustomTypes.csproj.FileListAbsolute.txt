@@ -1,0 +1,10 @@
+D:\GitRepository\CustomTypes\InforCustomTypes\InforCustomTypes\bin\Debug\netstandard2.0\InforCustomTypes.deps.json
+D:\GitRepository\CustomTypes\InforCustomTypes\InforCustomTypes\bin\Debug\netstandard2.0\InforCustomTypes.dll
+D:\GitRepository\CustomTypes\InforCustomTypes\InforCustomTypes\bin\Debug\netstandard2.0\InforCustomTypes.pdb
+D:\GitRepository\CustomTypes\InforCustomTypes\InforCustomTypes\obj\Debug\netstandard2.0\InforCustomTypes.AssemblyInfoInputs.cache
+D:\GitRepository\CustomTypes\InforCustomTypes\InforCustomTypes\obj\Debug\netstandard2.0\InforCustomTypes.AssemblyInfo.cs
+D:\GitRepository\CustomTypes\InforCustomTypes\InforCustomTypes\obj\Debug\netstandard2.0\InforCustomTypes.csproj.CoreCompileInputs.cache
+D:\GitRepository\CustomTypes\InforCustomTypes\InforCustomTypes\obj\Debug\netstandard2.0\InforCustomTypes.dll
+D:\GitRepository\CustomTypes\InforCustomTypes\InforCustomTypes\obj\Debug\netstandard2.0\InforCustomTypes.pdb
+D:\GitRepository\CustomTypes\InforCustomTypes\InforCustomTypes\bin\Debug\netstandard2.0\Components.xml
+D:\GitRepository\CustomTypes\InforCustomTypes\InforCustomTypes\obj\Debug\netstandard2.0\InforCustomTypes.csprojAssemblyReference.cache

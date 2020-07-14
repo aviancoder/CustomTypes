@@ -1,0 +1,17 @@
+D:\GitRepository\CustomTypes\InforCustomTypesDebugger\bin\Debug\netcoreapp3.1\InforCustomTypesDebugger.exe
+D:\GitRepository\CustomTypes\InforCustomTypesDebugger\bin\Debug\netcoreapp3.1\InforCustomTypesDebugger.deps.json
+D:\GitRepository\CustomTypes\InforCustomTypesDebugger\bin\Debug\netcoreapp3.1\InforCustomTypesDebugger.runtimeconfig.json
+D:\GitRepository\CustomTypes\InforCustomTypesDebugger\bin\Debug\netcoreapp3.1\InforCustomTypesDebugger.runtimeconfig.dev.json
+D:\GitRepository\CustomTypes\InforCustomTypesDebugger\bin\Debug\netcoreapp3.1\InforCustomTypesDebugger.dll
+D:\GitRepository\CustomTypes\InforCustomTypesDebugger\bin\Debug\netcoreapp3.1\InforCustomTypesDebugger.pdb
+D:\GitRepository\CustomTypes\InforCustomTypesDebugger\bin\Debug\netcoreapp3.1\InforCustomTypes.dll
+D:\GitRepository\CustomTypes\InforCustomTypesDebugger\bin\Debug\netcoreapp3.1\InforCustomTypes.pdb
+D:\GitRepository\CustomTypes\InforCustomTypesDebugger\obj\Debug\netcoreapp3.1\InforCustomTypesDebugger.csprojAssemblyReference.cache
+D:\GitRepository\CustomTypes\InforCustomTypesDebugger\obj\Debug\netcoreapp3.1\InforCustomTypesDebugger.AssemblyInfoInputs.cache
+D:\GitRepository\CustomTypes\InforCustomTypesDebugger\obj\Debug\netcoreapp3.1\InforCustomTypesDebugger.AssemblyInfo.cs
+D:\GitRepository\CustomTypes\InforCustomTypesDebugger\obj\Debug\netcoreapp3.1\InforCustomTypesDebugger.csproj.CoreCompileInputs.cache
+D:\GitRepository\CustomTypes\InforCustomTypesDebugger\obj\Debug\netcoreapp3.1\InforCustomTypesDebugger.csproj.CopyComplete
+D:\GitRepository\CustomTypes\InforCustomTypesDebugger\obj\Debug\netcoreapp3.1\InforCustomTypesDebugger.dll
+D:\GitRepository\CustomTypes\InforCustomTypesDebugger\obj\Debug\netcoreapp3.1\InforCustomTypesDebugger.pdb
+D:\GitRepository\CustomTypes\InforCustomTypesDebugger\obj\Debug\netcoreapp3.1\InforCustomTypesDebugger.genruntimeconfig.cache
+D:\GitRepository\CustomTypes\InforCustomTypesDebugger\bin\Debug\netcoreapp3.1\Components.xml

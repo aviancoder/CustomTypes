@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "InforCustomTypesDebugger/1.0.0": {
+        "dependencies": {
+          "InforCustomTypes": "1.0.0"
+        },
+        "runtime": {
+          "InforCustomTypesDebugger.dll": {}
+        }
+      },
+      "InforCustomTypes/1.0.0": {
+        "runtime": {
+          "InforCustomTypes.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "InforCustomTypesDebugger/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "InforCustomTypes/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

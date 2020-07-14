@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<Components>
+	<Component alias="Address" type="Infor.CustomTypes.USAddress"></Component>
+	<Component alias="Account" type="Infor.CustomTypes.Account"></Component>
+</Components>
+
